@@ -1,5 +1,5 @@
 #simulacion de creacion cuenta usuario
-#Jose Cabezas
+#Jose Cabezas Pulgarin
 try:
 
     print("Bienvenido")
